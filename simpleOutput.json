@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Josh Schafer",
+        "title": "May jobs report shocks economists: 'The strangest employment report for some time' - Yahoo Finance",
+        "description": "The May jobs report showed hiring remained strong last month as expectations a downturn in the US economy could be coming soon continued to get pushed into...",
+        "url": "https://finance.yahoo.com/news/may-jobs-report-shocks-economists-the-strangest-employment-report-for-some-time-173324175.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/c3FT3HwXLDgK23CzprLL7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2023-03/36ae6aa0-cf10-11ed-bfbe-28f85d2b84aa",
+        "publishedAt": "2023-06-02T17:33:24Z",
+        "content": "The US labor market continues to surprise.\r\nData from Bureau of Labor Statistics out Friday showed there were 339,000 jobs created in May, topping Wall Street estimates for 195,000 jobs to be added t… [+5856 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Anne Branigin",
+        "title": "7 takeaways from 'Shiny Happy People,' the new Duggar family documentary - The Washington Post",
+        "description": "A new docuseries on Amazon Prime digs deeper into the Duggar family, their show and their connections to Christian fundamentalism.",
+        "url": "https://www.washingtonpost.com/arts-entertainment/2023/06/02/duggar-shiny-happy-people-amazon/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6QOHC7SF5YRB667LYA5RLLDIEM.jpg&w=1440",
+        "publishedAt": "2023-06-02T17:21:00Z",
+        "content": "Comment on this story\r\nComment\r\nFor more than a decade, audiences around the world watched the Duggar family parents Jim Bob and Michelle, along with their ever-growing family on the TLC show 19 Kids… [+11748 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Dozens reported dead after India train crash - BBC",
+        "description": "At least 30 people are killed and hundreds injured in a multiple train collision in the Odisha state, officials say.",
+        "url": "https://www.bbc.com/news/world-asia-india-65793257",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9FCB/production/_129970904_6d4356c9c53388a63bcad17f3d5b2e0e9f77ae0825_0_5933_33411000x563.jpg",
+        "publishedAt": "2023-06-02T17:13:05Z",
+        "content": "Media caption, Footage showed rescuers trying to free victims from the wreckage\r\nAt least 30 people have been killed and hundreds injured in a multiple train collision in India's eastern Odisha state… [+1888 chars]"
+      }
+    ]
+  }
